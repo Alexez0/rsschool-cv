@@ -147,20 +147,20 @@ main {
 }
 .contacts li:first-child {
   padding-left: 30px;
-  background: url("/rsschool-cv/assets/img/Vk-icon.png") left no-repeat;
+  background: url("../img/Vk-icon.png") left no-repeat;
 }
 .contacts li:nth-child(2) {
   padding-left: 30px;
-  background: url("/rsschool-cv/assets/img/Phone-icon.png") left no-repeat;
+  background: url("../img/Phone-icon.png") left no-repeat;
   height: 25px;
 }
 .contacts li:nth-child(3) {
   padding-left: 30px;
-  background: url("/rsschool-cv/assets/img/Telegram-icon.png") left no-repeat;
+  background: url("../img/Telegram-icon.png") left no-repeat;
 }
 .contacts li:nth-child(4) {
   padding-left: 30px;
-  background: url("/rsschool-cv/assets/img/discord-canary-icon.png") left no-repeat;
+  background: url("../img/discord-canary-icon.png") left no-repeat;
 }
 
 .contacts:after {
